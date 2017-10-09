@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:887292687247:android:664cf7092de27970",
+        "mobilesdk_app_id": "1:887292687247:android:0124a78c1c7d3d3e",
         "android_client_info": {
-          "package_name": "com.example.ravinder077.ggsdav"
+          "package_name": "com.tuespotsolutions.ravinder077.ggsdav"
         }
       },
       "oauth_client": [
